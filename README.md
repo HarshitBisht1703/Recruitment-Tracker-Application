@@ -1,6 +1,4 @@
 # Recruitment-Tracker-Application
-Power Apps 
-
 
 This is a Recruitment Tracker Application built using Microsoft Power Apps.
 The app helps to manage candidates' information and interview schedules in a simple and organized way.
